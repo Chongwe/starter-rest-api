@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "This is just a starter repo for stripe backend integration.\r Check out the video for the code [Youtube](https://youtu.be/ElgfjrWn7Mg)",
   "scripts": {
-    "start": "nodemon --watch app app/server.js",
+    "start": "node --watch app app/server.js",
+    "dev": "nodemon --watch app app/server.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "stripe forward": "stripe listen --forward-to localhost:4242/webhook"
   },
