@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "unimart-95143",
+  "private_key_id": "48e55df819aea4ee5659f2ad3646a1c95d8178e9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDK4kJm+vhL747i\npT4dOfhZdJx5ThacVTCanTrD46Dgr/kjQlWzPInt431rozlI6lWDcF20BTRYJlPM\nhG0e82WncKJSDRUHuPezB8cR7uw6guzh3twbd8hr16U90WaR7v+AaZhkgAQI0gri\nOCBHlM/qT4C9Dgf9Pz2QE1GU+tydkKubBSUYETH8BaG6oZDoLr6e5Nfp1zbBceSx\na935JAC3m4Z8qDp3vvhSmjelzrC0JiNN5eZjANsL1uQkHH//cTZcva30Yd7RjhK0\nkUs+uKPcEL7jPDTdJcqqBP5iO8q2JIG1qU+eerBoE/wb4a5tQr2W7PNiFnP3SU8H\n708QmeqLAgMBAAECggEACOWnN9Dltp7Iy1Onx6xVIcclXYR5JV3vBbjDbPe8hF3z\nNQKhs3yCJ/aD94Zu6q2sFlmFInHf+8WigyODjYnq+U7NL3/3XiFUa3t51WV+4on/\nTWBykpnMJj6MtotKTjgG6GC5GB8tDh338De54qm5/HKEGMZWv1pYnsraFwhxSE+N\n2XjG/3/YXIdppx4MMh/wTiZoCBMCjJV7TuHpc0ErMsKc/hIPDARjICFv5eLQr2e1\np7JOnr1cdppgPtY67WG8DRHGPIx+N4XZIMaE73/0ZQfk9KzWva9bZoLliBVjZrwt\nGEoeCsb4gvXXkIWAETmgT3KHkglSlkuKirjR4UYGQQKBgQDm9VPetg9bjmsO/V7H\n5EhcL2Xj3EikZPo51CqdvRqhn6R7g3BrgwDkxhCDOvxoivDDvUGto21vFZ4cJ41R\n506fjo+lj8AhKm6npql7nwXGUFeXZAbdm+3b2WB9O77m10M7ZDwnWrLnpmvpL7H2\nEUomTG22sogEYOxZUu6d9q6Q2wKBgQDg4aw+sqIvHOwmMwtDkPteJu0If00isrBU\nEsTfkusLuetOm/PVinAfnfJGj0dGXB+5DHVXHlpOkgcAh6a3e04bogOx9krqAq97\nkQ317JRpTg7YWRpQcD23EO2Krt40j6QvS54eYwtdsfKr646e/1xlUE0WJ7o0edkO\nFwqdUYKkEQKBgFEIbl7LnePPujxOJX0Y2VKOxr8FwO79BtZXXIRvnvJqIrm7SixO\nkHe0DoMcpQbBCOyEcJDNsE2zVgAm2GyOLYXJ7Rh3sT9xtdVYokpfZxVHhxP04nvK\ng9AJGtOVrMstZ8dkyb49Elw4hdARDe1573w0gKIDTbnLj+FfOZ1uuZzVAoGBAMbT\nwM7Occbl84TyrIrYrObZ08knhLOg+XXcAmUKKPb9MqcWC8hJ1kieBY+NLp9u5D1g\nXn7gP0gopDg7t5OSWcTkwg+eiy3LogvGfGlq+u0ALu/qF/H2yxoIxX1QjvY56hhG\n605Ck9ILe1u1sSuy66ZIEV/9UA0Fjnt+s8vUPYWBAoGAdP2HIrHUmGva+/kHC8qy\nDnOw99c+rvnx2KNN1m5JTldIJKq+PZ+DNaQ0z9+5WD3J5munkc5FMKL3ZNlE4hy5\ndfWlG4wSSTGtOQymUsIWWMEqTwiyMgx3sphWuHsPesvJDRCEtJUbDr9xChiQiZwI\ntMW/ZnCYW3amyOWFptejqcc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-wwfgi@unimart-95143.iam.gserviceaccount.com",
+  "client_id": "100727037708915926945",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-wwfgi%40unimart-95143.iam.gserviceaccount.com"
+}
